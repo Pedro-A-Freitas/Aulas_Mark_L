@@ -1,0 +1,13 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes",
+  "main": "index.js",
+  "author": "Pedro",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.0",
+    "allure-commandline": "^2.22.4",
+    "cypress": "^12.14.0"
+  }
+}
